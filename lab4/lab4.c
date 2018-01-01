@@ -7,11 +7,9 @@
 */
 
 // code to include custom header file only once
-#define _LAB4_H "lab4.h"
 
-#ifdef _LAB4_H 
 #include "lab4.h" // custom header file
-#endif
+
 
 
 // entry to main
