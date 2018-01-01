@@ -1,10 +1,6 @@
 
  
-#define _LAB5_H "lab5.h" // macro to avoid repeated inclusion of files
-
-#ifdef _LAB5_H 
 #include "lab5.h" // custom header file
-#endif
 
 // entry to main
 int main()
