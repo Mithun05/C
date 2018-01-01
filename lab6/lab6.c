@@ -1,9 +1,7 @@
-#define _LAB6_H "lab6.h" // macro to avoid repeated inclusion of files
-#ifdef _LAB6_H 
+
 
 #include "lab6.h" // custom header file
 
-#endif
 
 // main entry
 int main() 
